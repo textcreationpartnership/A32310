@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties most gracious and royal commission for the relief of poor distressed prisoners published by authority.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32310</idno>
+            <idno type="STC">Wing C3133</idno>
+            <idno type="STC">ESTC R35494</idno>
+            <idno type="EEBO-CITATION">15345570</idno>
+            <idno type="OCLC">ocm 15345570</idno>
+            <idno type="VID">103448</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32310)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103448)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1147:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties most gracious and royal commission for the relief of poor distressed prisoners published by authority.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for M.D. and are to be sold by Nathaniel Webb ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M.DC.LX.IV [1664]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, with print show-through and loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>Great Britain --  Social conditions --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103448:1" rendition="simple:additions"/>
+            <p>HIS MAJESTIES Moſt <hi>Gracious</hi> and <hi>Royal</hi> COMMISSION, For the Relief of Poor Diſtreſſed PRISONERS.</p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+               <head>Royall Oake</head>
+            </figure>
+            <p>LONDON, Printed for <hi>M. D.</hi> and are to be ſold by
+<hi>Nathaniel Webb,</hi> at the <hi>Royal Oak,</hi> in St. <hi>Pauls</hi> Church-yard, neer the little North-door of St. <hi>Pauls</hi> Church. M.DC.LX.IV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="commission">
+            <pb facs="tcp:103448:2"/>
+            <pb n="1" facs="tcp:103448:2"/>
+            <head>His Majeſties Moſt <hi>Gracious</hi> and <hi>Royal</hi> COMMISSION, For the <hi>Relief</hi> of Poor Diſtreſſed PRISONERS.</head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">C</seg>HARLES</hi> the Second, by the Grace of God, King of
+<hi>England, Scotland, France</hi> and <hi>Ireland,</hi> Defender of the Faith, &amp;c.</signed> 
+               <salute>To Our Right Truſtly and Right Well beloved, the moſt Reve<g ref="char:EOLhyphen"/>rend Father in God, the Arch<g ref="char:EOLhyphen"/>biſhop of <hi>Canterbury,</hi> now and for the time being; The Right Reverend Fa<g ref="char:EOLhyphen"/>ther in God, the Lord Biſhop of <hi>London,</hi> now and for the time being; The Reverend Father in God, the Lord Biſhop of
+<hi>Winche<g ref="char:EOLhyphen"/>ſter,</hi> now and for the time being; and the Lord
+<pb n="2" facs="tcp:103448:3"/>Biſhop of <hi>Rocheſter,</hi> now and for the time being. To Our Truſtly and Well-beloved, the Lord Mayor of Our City of
+<hi>London,</hi> now and for the time be<g ref="char:EOLhyphen"/>ing; The Iudges, and other Our Iuſtices, as well for the <hi>Pleas,</hi> before Vs to be Holden, as of the
+<hi>Common-Pleas,</hi> aſsigned, or to be aſsigned for the time being; The Chief Baron, and other the Barons of Our Excheequer, now and for the time being; The Chancellour of Our Dutchy of <hi>Lan<g ref="char:EOLhyphen"/>caſter,</hi> for the time being; The Maſters of Our Requeſts, for the time being; Our Serjeants at Law, Atturney General, and Sollicitor General, for the time being; The Atturney of Our Dutchy of <hi>Lancaſter,</hi> for the time being; The Almoner of Our Houſhold, for the time being; The Maſter of the Rolls of Our Court of
+<hi>Chancery,</hi> now and for the time being; The Dean, and Reſident Can<g ref="char:EOLhyphen"/>nons of Our Cathedral Church of St. <hi>Paul,</hi> in Our City of
+<hi>London,</hi> for the time being; The Dean, and Reſident Cannons of Our Collegiate Church of St. <hi>Peter,</hi> in <hi>Weſtminſter,</hi> for the time being; The Maſter of Our <hi>Savoy</hi> for the time being; The Chancellor and Chancellors, for the time being, of every the Arch-biſhops and Biſhops aforeſaid; The Arch-deacons of <hi>London, Eſſex</hi> and
+<hi>Middleſex,</hi> for the time being; The Maſters of Our Court of
+<hi>Chancery,</hi> now and for the time being; The Re<g ref="char:EOLhyphen"/>corder of Our ſaid City of <hi>London,</hi> now and for the time being; The Lieutenant of Our Tower of
+<hi>London,</hi> now and for the time being; All and eve<g ref="char:EOLhyphen"/>ry of the Iuſtices of the Peace, now and for the<pb n="3" facs="tcp:103448:3"/>time being; All and every of the Iuſtices of the Peace, now being, or which hereafter ſhall be Re<g ref="char:EOLhyphen"/>ſident or dwelling within Our ſaid City of <hi>London,</hi> and Suburbs thereof; And in the Counties of <hi>Middleſex, Surrey</hi> and <hi>Kent,</hi> within five miles of the City of <hi>London;</hi> And all and every the Advo<g ref="char:EOLhyphen"/>cates, towards the Court of <hi>Canterbury,</hi> of the Arches of <hi>London,</hi> now and for the time being; And all and every the Advocates of the ſaid Court, for the time being, or which hereafter ſhall be; All and every the Maſters and Governours, eſpecially appointed by the Mayor and Commonalty of the ſaid City, for the Receipt, Order, Diſpoſition and Government of the Rents, Revenues and Pro<g ref="char:EOLhyphen"/>fits of the Houſes of the Poor of Chriſt, and Sr.
+<hi>Thomas</hi> the Apoſtle, now and for the time being; And the Maſters and Governours thereunto ap<g ref="char:EOLhyphen"/>pointed, now and for the time being; And all and every the Maſters and Wardens, now and for the time being, of the Company of Mercers, Dra<g ref="char:EOLhyphen"/>pers, Gold-ſmiths, Grocers, Cloath-workers, Merchant-taylors, Ironmongers, Haberdaſhers, Fiſh mongers, Salters, Skinners and Vintners of Our City of <hi>London,</hi> now and for the time be<g ref="char:EOLhyphen"/>ing, and to every of them, Gréeting:</salute>
+            </opener>
+            <p>
+               <hi>Whereas</hi> the late Quéen <hi>ELIZABETH,</hi> upon the lamen<g ref="char:EOLhyphen"/>table Petitions, Complaints and Supplications of divers her loving Subjects, being Priſoners in the <hi>Kings Bench,</hi> and in the
+<hi>Fleet,</hi> did by her Commiſsion under the Great Seal of
+<hi>England,</hi> bearing Date the Twentieth day of <hi>April,</hi> in the
+<pb n="4" facs="tcp:103448:4"/>Eight and Twentieth Year of Her Reign, Autho<g ref="char:EOLhyphen"/>rize certain Commiſsioners therein named, for the Ordering and Compounding of the Controverſies and Cauſes, betwéen the ſaid diſtreſſed Priſoners and their Creditors, and ſuch others, by whom they were detained Priſoners, or in Execution; And to do divers other things, in the ſaid Commiſ<g ref="char:EOLhyphen"/>ſion expreſſed, which Commiſsion continued in force from the Date thereof, until the Deceaſe of the ſaid Quéen <hi>ELIZABETH. And Whereas</hi> Our late Dear, and moſt Royal Grand-Father, King <hi>James,</hi> of Happy Memory, being informed that certain Clauſes contained in the ſaid Commiſ<g ref="char:EOLhyphen"/>ſion, had ſéemed unto ſome to be derogatory to the Common Lawes of this Our Realm of <hi>England;</hi> And alſo, for that by colour of the ſaid Commiſ<g ref="char:EOLhyphen"/>ſion, (which was intended for the Charitable Re<g ref="char:EOLhyphen"/>lief of Poor, Miſerable and Diſtreſſed Perſons) ſundry refractory and obſtinate Debtors, which rather wanted Will than Means to ſatisfie their juſt Debts, took occaſion to moleſt and trouble their Creditors; Our ſaid Grand-Father, out of His Princely Care and Vigilancy, to prevent all occa<g ref="char:EOLhyphen"/>ſions of Inconveniency to his Loving Subjects, eſpecially ſuch as tended to the breach of His Lawes, Did for many years forbear the Renew<g ref="char:EOLhyphen"/>ing of the ſaid Commiſsion: And finding that as his forbearance wrought a good effect, by diſcou<g ref="char:EOLhyphen"/>raging of obſtinate and wilful Debtors, that ſought nothing more, than Evaſions to avoid the Payment of their juſt Debts; ſo alſo, that for<pb n="5" facs="tcp:103448:4"/>want of that, or ſome other like charitable Courſe, for the Relief of ſuch as were truly and indéed Poor, Diſtreſſed and Miſerable, and want<g ref="char:EOLhyphen"/>ed Means to ſatisfie their Creditors, It had been occaſion to peſter and fill His Priſons with the Bodies of ſuch Perſons, whoſe Puniſhment could no way avail their Creditors, but rather was a hindrance to the ſatisfaction of their Debts: For that during the time of their Reſtraint, they were no wayes able to go about, or attend their lawful Buſineſs, but muſt of force conſume themſelves, and that little they had, miſerably, and in Priſon.
+<hi>And</hi> upon due conſideration had of the Premiſes, Our ſaid Royal Grand-father, by His Commiſsion under the Great Seal of <hi>England,</hi> bearing Date the Eleventh day of <hi>No<g ref="char:EOLhyphen"/>vember,</hi> in the Sixtéenth Year of His Reign of <hi>England,</hi> by the Advice of the then Lord Chan<g ref="char:EOLhyphen"/>cellour of <hi>England,</hi> and alſo of divers of His Principal Iudges of His Courts at <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> Did Authorize the Commiſsioners there<g ref="char:EOLhyphen"/>in named, to procéed according to the Tenour of the ſaid Commiſsion, for the Relief of the ſaid poor Priſoners, in the aforeſaid Priſons. <hi>And</hi> afterwards Our ſaid Royal Grand-father, being informed that His ſaid Commiſsion had not taken that good effect which was expected, Renewed the ſaid Commiſsion, and thereby pre<g ref="char:EOLhyphen"/>ſcribed and directed ſuch a moderate Courſe, as that neither the Inſolence of wilful and obſtinate Debtore, ſhould be thereby encouraged to the<pb n="6" facs="tcp:103448:5"/>derogation of His Lawes, nor yet His Grace and Clemency be wanting unto ſuch, to whom it ſhould be méet to extend the ſame. <hi>And where<g ref="char:EOLhyphen"/>as</hi> Our ſaid Grand-father, upon the Humble Suit and Petition of His loving Subjects, His diſtreſſed Priſoners in the Priſon of the
+<hi>Mar<g ref="char:EOLhyphen"/>ſhalſea,</hi> and other Priſons, in and about the Cities of
+<hi>London</hi> and <hi>Weſtminſter,</hi> and other Places near adjoyning to the ſame, whoſe Caſe was as much to be Commiſerated and lament<g ref="char:EOLhyphen"/>ed, as the ſaid Priſoners of the ſaid <hi>Kings Bench</hi> and the
+<hi>Fleet,</hi> did by one other His Com<g ref="char:EOLhyphen"/>miſsion, ſealed with the Great Seal of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> bearing Date the Tenth day of <hi>July,</hi> in the Two and Twentieth Year of His Reign, Authorize certain Commiſsioners therein named, for the Ordering and Compounding of the Cau<g ref="char:EOLhyphen"/>ſes of the diſtreſſed Priſoners and their Credi<g ref="char:EOLhyphen"/>tors, in the Priſons, and within the Places therein, and hereafter in theſe Preſents men<g ref="char:EOLhyphen"/>tioned and expreſſed, as thereby may more at large appear. <hi>And whereas</hi> Our Royal Father of Bleſſed Memory, by two ſeveral Commiſ<g ref="char:EOLhyphen"/>ſions, under the Great Seal of <hi>England,</hi> the one bearing Date at
+<hi>Canterbury,</hi> the Sixth day of <hi>June,</hi> in the Fourth Year of His Reign; And the other bearing Date at <hi>Weſtminſter,</hi> the One and Thirtieth day of <hi>December,</hi> in the Sixth Year of His Reign, Authorized divers Com<g ref="char:EOLhyphen"/>miſsioners therein expreſſed, to the ſame, or like purpoſe as aforeſaid, as thereby alſo more<pb n="7" facs="tcp:103448:5"/>at large may appear.
+<hi>Which</hi> Commiſsions, upon the Death of Our ſaid Royal Father, of Bleſſed Memory, determined. <hi>And Whereas Our Loving</hi> Subjects, the Poor Diſtreſſed Pri<g ref="char:EOLhyphen"/>ſoners, in Our Priſons within Our Cities of
+<hi>London</hi> and <hi>Weſtminſter,</hi> and Suburbs of the ſame Cities, have by their Humble Petition beſought Vs, That We would be Graciouſly pleaſed to Renew the ſaid former Commiſsions, heretofore Granted by Our ſaid Royal Prede<g ref="char:EOLhyphen"/>ceſſors. <hi>Know</hi> ye therefore, That We taking the ſame into Our Princely Conſideration, and minding the Welfare and Relief of the ſaid poor diſtreſſed Priſoners, Have (by, and with the Advice of the Lords of Our Privy Council) of Our eſpecial Grace, certain Knowledge and méer Motion) Made, Conſtituted and Appoint<g ref="char:EOLhyphen"/>ed, And by theſe Preſents do Make, Conſti<g ref="char:EOLhyphen"/>tute and Appoint You to be Our Commiſ<g ref="char:EOLhyphen"/>ſioners; And do hereby Give and Grant to You, or any Three, or more of You, full Power and Authority, at all and every time and times, from henceforth, ſo often as to You, or any Thrée, or more of You (as is aforeſaid) ſhall ſéem convenient and néedful, to aſſemble and méet together, in ſome convenient place, in, or néer the City of
+<hi>London,</hi> as to You, or any Thrée, or more of You, ſhall ſéem fit for the Execution of this Our Commiſsion: And be<g ref="char:EOLhyphen"/>fore ſuch Your Méeting, by Warrant under Your Hands, or the Hands of any Thrée, or<pb n="8" facs="tcp:103448:6"/>more of You, as is aforeſaid, upon reaſonable warning (and at the Charges of the Priſoners) To call before You, as well ſuch perſon or per<g ref="char:EOLhyphen"/>ſons, ſufficiently inſtructed for, and on the be<g ref="char:EOLhyphen"/>half of ſuch diſtreſſed Priſoners, as now, or hereafter ſhall happen to be Impriſoned, in Our Priſons of Our <hi>Kings Bench, Fleet, Marſhal<g ref="char:EOLhyphen"/>ſeas, White Lyon, Clink, New Priſon,</hi> the
+<hi>Compter</hi> in <hi>Wood-ſtreet,</hi> the <hi>Compter</hi> in the
+<hi>Poultrey, Ludgate, Newgate, Gate-Houſe,</hi> St. <hi>Katherines, White-Chappel, Bringhurſt and Finch<g ref="char:EOLhyphen"/>bury,</hi> and all other Priſons, near or about <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> or any of them, by reaſon of, or for any Action or Actions of Debt, Actions upon the Caſe, Treſpaſs, Detinue Trover, or other per<g ref="char:EOLhyphen"/>ſonal Action, Iudgments, Execution or Execu<g ref="char:EOLhyphen"/>tions whatſoever. And alſo the Creditors, and ſuch others as have, or ought to have the bene<g ref="char:EOLhyphen"/>fit of the Actions, Suits, Iudgments or Exe<g ref="char:EOLhyphen"/>cutions, for which they are detained in Priſon; and the Executors, Adminiſtrators and Atturney of every of them, and all other perſons what<g ref="char:EOLhyphen"/>ſoever, to whom it ſhall appertain, or ſome perſons indifferently Authorized and Inſtructed, for, and on their behalf, whom We do hereby Command to Appear before You, upon ſuch Your Warrants, either in their own perſons, or by ſome other, ſufficiently Inſtructed and Authori<g ref="char:EOLhyphen"/>zed on their behalf; And at ſuch Your Méet<g ref="char:EOLhyphen"/>ings, to receive the Supplications and Com<g ref="char:EOLhyphen"/>plaints of the ſaid poor diſtreſſed Priſoners, and<pb n="9" facs="tcp:103448:6"/>by all wayes and means, to inform your ſelves as well of the due Debt, Damages and Duty, for which ſuch Actions, Suits, Plaints, Iudge<g ref="char:EOLhyphen"/>ments or Executions, is, or ſhall be proſecuted, obtained or gotten; As of the certain Eſtate and Ability of the Priſoners, how to pay and diſcharge the ſome; And thereupon, by all good and lawful wayes and means, to treat with the Creditors, or other Perſons, which have, or ſhall have the Benefit of ſuch Actions, Suits, Iudgments or Executions, and to make Com<g ref="char:EOLhyphen"/>poſitions and Agreements with them; Where<g ref="char:EOLhyphen"/>in Our Pleaſure is, That ſome of the Iudges of the Court, by, or from which the ſaid Pri<g ref="char:EOLhyphen"/>ſoner or Priſoners ſhall be Committed, ſhall be privy or conſenting to the concluſion of ſuch Compoſitions and Agréements. And in Caſes where no Concluſion or Compoſition can be made, after Examination thereof, to certifie the truth of the ſame, unto Vs and Our Privy Council, To the end ſuch ſpéedy courſe may be taken there<g ref="char:EOLhyphen"/>in, as ſhall effectually tend to the Relief and Re<g ref="char:EOLhyphen"/>leaſe of the Priſoners Grieved, according to Iu<g ref="char:EOLhyphen"/>ſtice and Equity. And that ſuch of You Our ſaid Commiſsioners, as ſhall go about ſuch Com<g ref="char:EOLhyphen"/>poſitions, ſhall do Your beſt endeavours, That the poor Priſoners by Your means and mediations, may be Relieved, and have ſuch reaſonable Years, Dayes and Times of Payment for ſuch their Debts and Damages, as they ſhall not be pre<g ref="char:EOLhyphen"/>ſently able to ſatisfie; and with ſuch ſecurity<pb n="10" facs="tcp:103448:7"/>for payment thereof, as in Equity and good Con<g ref="char:EOLhyphen"/>ſcience, (having reſpect to the Ability of the Pri<g ref="char:EOLhyphen"/>ſoner) and the Charge of Wife and Children, and other Incidents to pious Caſes conſidered as by You ſhall be thought fit; <hi>Streightly</hi> charge<g ref="char:EOLhyphen"/>ing and commanding You, and every of You, That for the better Expedition and further At<g ref="char:EOLhyphen"/>templiſhment of Our Charitable Intent and Will, in remedying of the grievous Diſtreſſes of Our ſaid poor Subjects, and diſtreſſed Priſoners, You, or ſome Thrée or more of You, as is aforeſaid, do from time to time, and as often as it ſhall be néedful, aſſemble Your ſelves together, in ſome ſuch convenient place as is aforeſaid, as You ten<g ref="char:EOLhyphen"/>der Our Pleaſure. <hi>Provided</hi> nevertheleſs, and Our Will and Pleaſure is, That You Our ſaid Commiſsioners, or any of You, ſhall not procéed to the Execution of this Our Commiſsion, for, or touching any ſuch Matter or Cauſe, as is be<g ref="char:EOLhyphen"/>fore mentioned: Wherein You ſhall be occaſion<g ref="char:EOLhyphen"/>ed to call, or cauſe any perſon reſident, abiding or remaining in any place, being above Ten Miles from Our Cities of <hi>London</hi> and
+<hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> to give Attendance upon You, only with<g ref="char:EOLhyphen"/>in, or during the time of the Termes, or with<g ref="char:EOLhyphen"/>in Seven Dayes before the beginning, or Ten Dayes after the end of every Term. <hi>And</hi> if any ſuch Creditor or Creditors, or other per<g ref="char:EOLhyphen"/>ſon or perſons, for whoſe Debts, Coſts or Da<g ref="char:EOLhyphen"/>mages, ſuch diſtreſſed Priſoner or Priſoners, ſhall remain in Priſon as aforeſaid, Shall Re<g ref="char:EOLhyphen"/>fuſe<pb n="11" facs="tcp:103448:7"/>upon the ſaid Precepts or Warrants to Appear before You; or appearing, to refuſe to Attend the Commiſſioners further pleaſure, or to ſend ſome other perſon or perſons, ſufficient<g ref="char:EOLhyphen"/>ly Authorized and Inſtructed, to Treat and Con<g ref="char:EOLhyphen"/>clude with You as aforeſaid, Vpon due conſide<g ref="char:EOLhyphen"/>ration of the nature and quality of ſuch Refuſal and Contempt, You ſhall and may, take ſuch order for puniſhment of the ſame, and for pro<g ref="char:EOLhyphen"/>curing ſuch perſons Appearance, as to You ſhall be thought méet. <hi>And</hi> that You, or any ſuch Thrée or more of You, ſhall and do uſe all lawful wayes and means, to cauſe ſuch Creditors, or other per<g ref="char:EOLhyphen"/>ſon or perſons, to yield to take, and to perform ſuch moderate and reaſonable Compoſitions and Agréements, as by You, or any Thrée or more of You, ſhall be thought méet and ſet down. <hi>And</hi> for that Our meaning is to be ayding and aſſiſting with Our Grace and Favour to the Miſery and Calamity of ſuch as are truly poor and diſtreſſed, and not to ſuch as lye in Priſon, rather of wilfulneſs and obſtinacy, and out of a reſolution to retain large and ample Eſtates to themſelves, by hindering their Iuſt and Honeſt Creditors of their due Debts and reaſonable Damages; <hi>Therefore</hi> We do hereby ſtreightly Charge and Command You, and every of You, That in all Your procéedings, by Vertue of this
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ommiſſion, You be very circumſpect and careful, to try and find out ſuch wilful and obſtinate per<g ref="char:EOLhyphen"/>ſons, and in no wiſe ſuffer them, or any of<pb n="12" facs="tcp:103448:8"/>them, to partake of Our Grace and Mercy, which hereby We intend to them, that are, and ſhall be willing, with their own Eſtates, <hi>Bona Fide,</hi> and without fraud, ſo far forth as it will extend to ſatisfie their Iuſt Debts and Dama<g ref="char:EOLhyphen"/>ges, for which they ſhall be ſo detained in Pri<g ref="char:EOLhyphen"/>ſon; ſo as care be had of Themſelves, their Wives and Children; And unto ſuch poor and miſerable perſons, as have not wherewithal to ſatisfie their Debts, but ſhall be conſtrained mi<g ref="char:EOLhyphen"/>ſerably to periſh in Priſon, except in pity they ſhall be relieved. And that You, or any Thrée or more of You, where juſt and neceſſary cauſe ſhall be found, do call before You any Priſoner or Priſoners, now detained in any of the ſaid Priſons; And if the Iaylor or Kéeper of the ſaid Priſon (where ſuch Priſoner ſhall be) ſhall not, or will not, upon the Warrant of You, or any Thrée or more of You, give the ſaid Pri<g ref="char:EOLhyphen"/>ſoner Liberty, with his Kéeper, to Attend ac<g ref="char:EOLhyphen"/>cordingly, That then, and in every ſuch caſe, You, or any Thrée or more of You, ſhall from time to time, (and as often as occaſion ſhall be) make Certificate of the Refuſal of ſuch Iaylor or Iaylors, to the Lord Chancellour, or L<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d Kéeper of Our Great Seal, for the time being, Who thereupon, and upon ſecurity gi<g ref="char:EOLhyphen"/>ven, by ſuch Priſoner or Priſoners, either to pay his Debts, or to render his Body within a certain time, may, as he ſhall ſee cauſe, Iſſue <hi>Habeas Corpuſſes,</hi> at then Charge of<pb n="13" facs="tcp:103448:8"/>ſuch Priſoner or Priſoners as ſhall procure ſuch Certificate, To the end the ſaid Priſoner or Priſo<g ref="char:EOLhyphen"/>ners may the better attend the proſecution of his Cauſe, and effectually pay his Debts, or make Com<g ref="char:EOLhyphen"/>poſition for the ſame; And to the end You Our Commiſsioners may the more readily and eauly executy this Our Commiſsion amongſt other Our weighty affairs, Our Will and Pleaſure is, Toat this Our Commiſsion ſhall continue in force. <hi>And</hi> We do hereby Authorize You Our ſaid Commiſsi<g ref="char:EOLhyphen"/>oners, or any Three or more of You to proceed in the Execution thereof, and of all and every matter and thing therein contained, from time to time, as often as You, or any Three or more of You ſhall think convenient;
+<hi>Albeit</hi> the ſame Commiſ<g ref="char:EOLhyphen"/>ſion be not from time to time continued by ad<g ref="char:EOLhyphen"/>journment. <hi>And laſtly,</hi> To the end this Our Commiſsion, may be the better put in Execu<g ref="char:EOLhyphen"/>tion, We have Made, Conſtituted and Appoint<g ref="char:EOLhyphen"/>ed Our Truſty and Well-beloved <hi>John Knight</hi> Gent. His ſufficient Deputy or Deputies to be Regiſter to Our ſaid Commiſſioners, and to be from time to time attending, ayding and aſſiſt<g ref="char:EOLhyphen"/>ing unto them and every of them in and about the Premiſes, and to Act and do all ſuch mat<g ref="char:EOLhyphen"/>ters and things, and have and receive ſuch fees and allowances as by Our ſaid Commiſſioners, or any Three or more of them ſhall be thought fit and neceſſary in that behalf. <hi>In Witneſſe, &amp;c. Witneſſe</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="illustration">
+            <pb facs="tcp:103448:9"/>
+            <pb facs="tcp:103448:9"/>
+            <p>
+               <figure>
+                  <figDesc>printer's or publisher's device</figDesc>
+                  <head>Royall Oake</head>
+               </figure>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
